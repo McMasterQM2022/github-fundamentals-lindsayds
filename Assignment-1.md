@@ -9,3 +9,5 @@ I think I figured out how to add a readme file to my profile at least :smiley:
 ## getting
 ### smaller
 *I should stop*
+
+![Proof of Intro to GitHub Completion](https://user-images.githubusercontent.com/97469372/150376136-abfdfa18-5d8b-47c7-a794-9e389325079d.png)
